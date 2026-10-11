@@ -1,0 +1,11 @@
+Raport fisiere
+
+Fisiere noi 
+Niciun fisier nou.
+
+ Fisiere modificate 
+[Modificat] tmp/test_root/dir1/fisier_nou.txt (Size: 11 -> 11)
+[Modificat] tmp/test_root/dir2/f2.txt (Size: 9 -> 16)
+
+ Fisiere disparute
+Niciun fisier disparut.

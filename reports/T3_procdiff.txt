@@ -1,0 +1,12 @@
+Raport procese
+
+Procese noi
+[Nou] PID 6401 ((fileops.sh))
+[Nou] PID 6404 ((proc_snapshot))
+
+Procese modificate semnificativ
+Niciun proces modificat semnificativ (> 5% diferenta memorie).
+
+Procese disparute
+[Disparut] PID 6392 ((fileops.sh))
+[Disparut] PID 6395 ((proc_snapshot))
